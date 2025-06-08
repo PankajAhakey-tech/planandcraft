@@ -61,8 +61,8 @@ const Footer = () => {
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Us</h4>
-            <p className="text-sm mb-2">TelePhone Colony,Betul,MP,India</p>
-            <p className="text-sm mb-2">Phone: +1 234 567 8900</p>
+            <p className="text-sm mb-2">Vinoba Nagar, Bhaggudhana, Betul,MP,India</p>
+            <p className="text-sm mb-2">Phone: +91 9479464694</p>
             <p className="text-sm mb-2">Email: info@civiltech.com</p>
           </div>
         </div>
